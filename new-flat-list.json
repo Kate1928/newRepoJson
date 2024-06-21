@@ -1,0 +1,195 @@
+{
+  "type": "doc",
+  "content": [
+    {
+      "type": "paragraph",
+      "content": [{ "type": "text", "text": "text before" }]
+    },
+    {
+      "type": "flatList",
+      "attrs": { "kind": "ordered", "level": 1, "start": 1, "posinset": 1 },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "a" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": { "kind": "ordered", "level": 1, "posinset": 2 },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "b" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "ordered",
+        "level": 2,
+        "posinset": 1,
+        "ancestors": "2"
+      },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "x" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "ordered",
+        "level": 2,
+        "ancestors": "2",
+        "posinset": 2
+      },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "y" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "ordered",
+        "level": 3,
+        "ancestors": "2.2",
+        "posinset": 1
+      },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "i" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "ordered",
+        "level": 3,
+        "ancestors": "2.2",
+        "posinset": 2
+      },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "ii" }] }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [{ "type": "text", "text": "paragraph between 2" }]
+    },
+    {
+      "type": "paragraph",
+      "content": [{ "type": "text", "text": "paragraph between 1" }]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "ordered",
+        "level": 3,
+        "ancestors": "1.1",
+        "posinset": 1
+      },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "iii" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "ordered",
+        "level": 2,
+        "ancestors": "1",
+        "posinset": 1
+      },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "z" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": { "kind": "ordered", "level": 1, "posinset": 1 },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "c" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "bullet",
+        "level": 2,
+        "posinset": 1,
+        "ancestors": "1"
+      },
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "alpha" }]
+        }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "ordered",
+        "level": 3,
+        "posinset": 1,
+        "ancestors": "1.1"
+      },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "xxx" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "ordered",
+        "level": 3,
+        "ancestors": "1.1",
+        "posinset": 2
+      },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "yyy" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": {
+        "kind": "bullet",
+        "level": 2,
+        "ancestors": "1",
+        "posinset": 2
+      },
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "omega" }]
+        }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": { "kind": "ordered", "level": 1, "posinset": 2 },
+      "content": [
+        { "type": "paragraph", "content": [{ "type": "text", "text": "d" }] }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": { "kind": "bullet", "level": 1, "posinset": 1 },
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "bullet" }]
+        }
+      ]
+    },
+    {
+      "type": "flatList",
+      "attrs": { "kind": "ordered", "level": 1, "posinset": 1 },
+      "content": [
+        {
+          "type": "paragraph",
+          "content": [{ "type": "text", "text": "querty" }]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "content": [{ "type": "text", "text": "text after" }]
+    }
+  ]
+}
