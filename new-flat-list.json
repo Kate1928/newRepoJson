@@ -23,7 +23,7 @@
                 "PersonId": 995478
             }
         ],
-        "RequestGuid": "1541cd80-54cb-402e-8f36-6e4266e1e341",
+        "RequestGuid": "2a52e7ec-960c-49f3-acc2-bbcdf5697807",
         "ScopeCache": {
             "Persons": [
                 {
@@ -49,7 +49,7 @@
                 }
             ]
         },
-        "TimeStamp": 1718960873796,
+        "TimeStamp": 1719257176266,
         "UserId": 994445,
         "Cache": {
             "Problems": [],
@@ -394,7 +394,7 @@
                 "Id": 994445,
                 "Limits": [
                     {
-                        "Current": 15,
+                        "Current": 20,
                         "Type": 0,
                         "Value": 25
                     }
@@ -431,7 +431,7 @@
                 ],
                 "TariffId": "Free100TasksRU"
             },
-            "Stamp": "|=1.1188910510|"
+            "Stamp": "|=1.1189536840|"
         },
         "CacheStatus": 1,
         "Counters": {
@@ -445,15 +445,47 @@
         },
         "Errors": [],
         "RequestId": 0,
-        "Version": "1.87.61741.0",
+        "Version": "1.87.61876.0",
         "Warnings": [],
         "Structure": {
             "Articles": [
                 {
                     "AccessRight": 3,
-                    "Id": "TdXFL9nmyGi",
+                    "Id": "RlqkOppEHoQ",
                     "IsOpenForOrganization": true,
                     "Order": 1,
+                    "Title": "hfcgj",
+                    "Type": 0
+                },
+                {
+                    "AccessRight": 3,
+                    "Id": "U2Yto04JYq7",
+                    "IsOpenForOrganization": true,
+                    "Order": 2,
+                    "Title": "nbj",
+                    "Type": 0
+                },
+                {
+                    "AccessRight": 3,
+                    "Id": "Kk6PkLdMQGT",
+                    "IsOpenForOrganization": true,
+                    "Order": 3,
+                    "Title": "hgcgh1",
+                    "Type": 0
+                },
+                {
+                    "AccessRight": 3,
+                    "Id": "PKpNqGhZ7TP",
+                    "IsOpenForOrganization": true,
+                    "Order": 4,
+                    "Title": "line1",
+                    "Type": 0
+                },
+                {
+                    "AccessRight": 3,
+                    "Id": "TdXFL9nmyGi",
+                    "IsOpenForOrganization": true,
+                    "Order": 5,
                     "Title": "linr",
                     "Type": 0
                 },
@@ -461,7 +493,7 @@
                     "AccessRight": 3,
                     "Id": "F3it57cTcak",
                     "IsOpenForOrganization": true,
-                    "Order": 2,
+                    "Order": 6,
                     "Title": "р",
                     "Type": 0
                 },
@@ -469,7 +501,7 @@
                     "AccessRight": 3,
                     "Id": "A2yU9kQwA0u",
                     "IsOpenForOrganization": true,
-                    "Order": 3,
+                    "Order": 7,
                     "Title": "3",
                     "Type": 0
                 },
@@ -477,7 +509,7 @@
                     "AccessRight": 3,
                     "Id": "N8Sjp4i52K3",
                     "IsOpenForOrganization": true,
-                    "Order": 4,
+                    "Order": 8,
                     "Title": "Вношу в повестку ошибки из логов. Каждый день сыпятся:2",
                     "Type": 0
                 },
@@ -485,7 +517,7 @@
                     "AccessRight": 3,
                     "Id": "KyFuRkkjAe6",
                     "IsOpenForOrganization": true,
-                    "Order": 5,
+                    "Order": 9,
                     "Title": "Вношу в повестку ошибки из логов. Каждый день сыпятся:",
                     "Type": 0
                 },
@@ -493,7 +525,7 @@
                     "AccessRight": 3,
                     "Id": "A747gLEbmNP",
                     "IsOpenForOrganization": true,
-                    "Order": 6,
+                    "Order": 10,
                     "Title": "Emptylist",
                     "Type": 0
                 },
@@ -501,7 +533,7 @@
                     "AccessRight": 3,
                     "Id": "DTKiFan5vCm",
                     "IsOpenForOrganization": true,
-                    "Order": 7,
+                    "Order": 11,
                     "Title": "список",
                     "Type": 0
                 },
@@ -509,7 +541,7 @@
                     "AccessRight": 3,
                     "Id": "Rmk6yO8g3Oy",
                     "IsOpenForOrganization": true,
-                    "Order": 8,
+                    "Order": 12,
                     "Title": "Предварительная оценка",
                     "Type": 0
                 },
@@ -517,7 +549,7 @@
                     "AccessRight": 3,
                     "Id": "KF7rhIjB9u8",
                     "IsOpenForOrganization": true,
-                    "Order": 9,
+                    "Order": 13,
                     "Title": "привет",
                     "Type": 0
                 },
@@ -525,13 +557,19 @@
                     "AccessRight": 3,
                     "Id": "DRPvHxvyCTg",
                     "IsOpenForOrganization": true,
-                    "Order": 10,
+                    "Order": 14,
                     "Title": "\u26F1\uFE0FПланы на отпуск",
                     "Type": 0
                 }
             ],
             "CanCreate": true,
             "Drafts": [
+                {
+                    "AccessRight": 3,
+                    "Id": "G3hUBy6kvdG",
+                    "Title": "",
+                    "Type": 0
+                },
                 {
                     "AccessRight": 3,
                     "Id": "ABEFTt0tkNV",
@@ -566,214 +604,20 @@
             },
             "SharedDrafts": [],
             "Topics": [],
-            "UnsortedArticlesCount": 10
+            "UnsortedArticlesCount": 14
         },
         "AccessRight": 3,
         "AncestorsInfo": [],
         "Article": {
             "AuthorId": 994445,
-            "CreateDateTime": "\/Date(1718704822222)\/",
-            "Id": "TdXFL9nmyGi",
+            "CreateDateTime": "\/Date(1719257153455)\/",
+            "Id": "RlqkOppEHoQ",
             "IsSubscribed": true,
-            "JsonContent": "{
-  "type": "doc",
-  "content": [
-    {
-      "type": "paragraph",
-      "content": [{ "type": "text", "text": "text before" }]
-    },
-    {
-      "type": "flatList",
-      "attrs": { "kind": "ordered", "level": 1, "start": 1, "posinset": 1 },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "a" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": { "kind": "ordered", "level": 1, "posinset": 2 },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "b" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "ordered",
-        "level": 2,
-        "posinset": 1,
-        "ancestors": "2"
-      },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "x" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "ordered",
-        "level": 2,
-        "ancestors": "2",
-        "posinset": 2
-      },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "y" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "ordered",
-        "level": 3,
-        "ancestors": "2.2",
-        "posinset": 1
-      },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "i" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "ordered",
-        "level": 3,
-        "ancestors": "2.2",
-        "posinset": 2
-      },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "ii" }] }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [{ "type": "text", "text": "paragraph between 2" }]
-    },
-    {
-      "type": "paragraph",
-      "content": [{ "type": "text", "text": "paragraph between 1" }]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "ordered",
-        "level": 3,
-        "ancestors": "1.1",
-        "posinset": 1
-      },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "iii" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "ordered",
-        "level": 2,
-        "ancestors": "1",
-        "posinset": 1
-      },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "z" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": { "kind": "ordered", "level": 1, "posinset": 1 },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "c" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "bullet",
-        "level": 2,
-        "posinset": 1,
-        "ancestors": "1"
-      },
-      "content": [
-        {
-          "type": "paragraph",
-          "content": [{ "type": "text", "text": "alpha" }]
-        }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "ordered",
-        "level": 3,
-        "posinset": 1,
-        "ancestors": "1.1"
-      },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "xxx" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "ordered",
-        "level": 3,
-        "ancestors": "1.1",
-        "posinset": 2
-      },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "yyy" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": {
-        "kind": "bullet",
-        "level": 2,
-        "ancestors": "1",
-        "posinset": 2
-      },
-      "content": [
-        {
-          "type": "paragraph",
-          "content": [{ "type": "text", "text": "omega" }]
-        }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": { "kind": "ordered", "level": 1, "posinset": 2 },
-      "content": [
-        { "type": "paragraph", "content": [{ "type": "text", "text": "d" }] }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": { "kind": "bullet", "level": 1, "posinset": 1 },
-      "content": [
-        {
-          "type": "paragraph",
-          "content": [{ "type": "text", "text": "bullet" }]
-        }
-      ]
-    },
-    {
-      "type": "flatList",
-      "attrs": { "kind": "ordered", "level": 1, "posinset": 1 },
-      "content": [
-        {
-          "type": "paragraph",
-          "content": [{ "type": "text", "text": "querty" }]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "content": [{ "type": "text", "text": "text after" }]
-    }
-  ]
-}",
-            "LastChangeDateTime": "\/Date(1718704995215)\/",
+            "JsonContent": "{\"type\":\"doc\",\"content\":[{\"type\":\"meta\",\"attrs\":{\"version\":1,\"type\":\"meta\"}},{\"type\":\"articleTitle\",\"attrs\":{\"level\":1},\"content\":[{\"type\":\"text\",\"text\":\"hfcgj\"}]},{\"type\":\"bulletList\",\"content\":[{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"chnjnhbjml\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"khvbjkibk\"}]}]},{\"type\":\"listItem\",\"content\":[{\"type\":\"paragraph\",\"content\":[{\"type\":\"text\",\"text\":\"hdsyfvkin\"}]}]}]},{\"type\":\"paragraph\"}]}",
+            "LastChangeDateTime": "\/Date(1719257164709)\/",
             "LastEditorId": 994445,
             "Order": 1,
-            "Title": "linr",
+            "Title": "hfcgj",
             "Version": 1
         },
         "Attachments": [],
@@ -784,5 +628,3 @@
         }
     }
 }
-//_______________________________________________________
-
